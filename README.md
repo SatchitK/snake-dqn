@@ -5,6 +5,9 @@ single-apple-spawn model trained on following specs:
 
 *note: model was tested on a 640x640 grid and generalized well. larger grid was used for better demonstration.
 
+model training visualizer:
+![image (23)](https://github.com/user-attachments/assets/0e68ddc7-c873-4db8-9627-e4660eb62a0b)
+
 
 following video shows a demo of the snake_dqn.pth model in action:
 
