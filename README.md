@@ -7,7 +7,11 @@ single-apple-spawn model trained on following specs:
 
 model training visualizer:
 
-![image (23)](https://github.com/user-attachments/assets/0e68ddc7-c873-4db8-9627-e4660eb62a0b)
+
+
+https://github.com/user-attachments/assets/ebf02580-a875-471e-ac04-c11999cd2547
+
+
 
 
 following video shows a demo of the snake_dqn.pth model in action:
