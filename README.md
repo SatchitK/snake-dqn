@@ -22,7 +22,7 @@ following video shows a demo of the snake_dqn_multi_path_reward.pth (multi apple
 
 https://github.com/user-attachments/assets/3fad507e-444d-4c17-bf7c-2462fa626721
 
-
+this struggles big time with accurate pathfinding (need to implement a better pathfinding algorithm). maybe more episodes of training might help? 
 
 
 
