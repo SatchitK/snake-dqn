@@ -1,6 +1,6 @@
 both single apple spawn and multi apple spawn models trained on following specs:
 - 400x400 grid
-- single reward apple spawn at a time
+- single reward or multi reward apple spawn at a time 
 - trained on NVIDIA RTX 6000 Ada Generation Graphics Card 
 
 *note: model was tested on a 640x640 grid and generalized well. larger grid was used for better demonstration.
